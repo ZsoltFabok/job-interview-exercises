@@ -6,7 +6,7 @@ A complicated example:
 
 ````json
 {
- "expression": "5! + abs(6-7*7) / 9"
+ "expression": "5! + abs(6-7*7) / ((9+1)*7)"
 }
 ````
 
